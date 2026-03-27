@@ -111,18 +111,3 @@ The analysis generates 7 key visualizations:
 - Chi-square: Trading direction vs sentiment
 - Pearson correlation: Sentiment value vs PnL
 
-### 👤 Author
-
-**Chandan** - Junior Data Scientist Candidate
-
-### 📧 Contact
-
-Application submitted to:
-- saami@primetrade.ai
-- nagasai@primetrade.ai
-- chetan@primetrade.ai
-- CC: sonika@primetrade.ai
-
----
-
-*This analysis was completed as part of the PrimeTrade.AI Data Science hiring process.*
